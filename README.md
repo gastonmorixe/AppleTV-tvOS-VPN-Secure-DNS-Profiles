@@ -55,6 +55,7 @@ AppleTV tvOS 17+ VPN Profiles (mobileconfig) with support of IKEv2 IPSec PPP L2T
 
 ### Learning
 - https://www.cloudflare.com/learning/dns/dns-over-tls/
-### Licensing
+
+## Licensing
 
 MIT 2023 Gaston Morixe
