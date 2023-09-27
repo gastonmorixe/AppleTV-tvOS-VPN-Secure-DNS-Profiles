@@ -49,7 +49,12 @@ AppleTV tvOS 17+ VPN Profiles (mobileconfig) with support of IKEv2 IPSec PPP L2T
 - https://imazing.com/guides/how-to-create-or-edit-apple-configuration-profiles
 - https://imazing.com/guides/apple-device-management-glossary#mdm
 
+### Public Dicussions
+- https://www.reddit.com/r/appletv/comments/14y5bk1/public_beta_and_vpn_works/
+- https://www.reddit.com/r/appletv/comments/16sglky/why_is_it_taking_so_long_for_the_big_guys_to/
 
+### Learning
+- https://www.cloudflare.com/learning/dns/dns-over-tls/
 ### Licensing
 
 MIT 2023 Gaston Morixe
