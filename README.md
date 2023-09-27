@@ -8,7 +8,7 @@ AppleTV tvOS 17+ VPN Profiles (mobileconfig) with support of IKEv2 IPSec PPP L2T
 
 ## Goals
 
-- VPN Profiles for protocols: [com.apple.vpn.managed(https://github.com/apple/device-management/blob/72c2a0a69f7dfad97f1a7d5733154e81de4e7448/mdm/profiles/com.apple.vpn.managed.yaml)
+- VPN Profiles for protocols: [com.apple.vpn.managed](https://github.com/apple/device-management/blob/72c2a0a69f7dfad97f1a7d5733154e81de4e7448/mdm/profiles/com.apple.vpn.managed.yaml)
   - IKEv2 ✅ (tested, works)
   - IPSec
   - PPP
