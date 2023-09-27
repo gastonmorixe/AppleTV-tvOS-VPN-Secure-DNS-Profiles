@@ -45,7 +45,10 @@ AppleTV tvOS 17+ VPN Profiles (mobileconfig) with support of IKEv2 IPSec PPP L2T
 - ~https://github.com/timsutton/make-profile-pkg~
 
 ### Guides
+- TODO: Add OS Repo tool 
 - https://imazing.com/guides/how-to-create-or-edit-apple-configuration-profiles
+- https://imazing.com/guides/apple-device-management-glossary#mdm
+
 
 ### Licensing
 
